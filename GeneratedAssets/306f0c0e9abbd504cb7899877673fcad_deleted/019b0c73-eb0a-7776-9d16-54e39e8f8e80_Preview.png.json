@@ -1,0 +1,11 @@
+{
+    "asset": "306f0c0e9abbd504cb7899877673fcad",
+    "fileName": "019b0c73-eb0a-7776-9d16-54e39e8f8e80_Preview.png",
+    "prompt": "바위",
+    "negativePrompt": "유광",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1421110945,
+    "w3CTraceId": "4e14ba5208c589b1affee45ac61ba95d",
+    "refinementMode": "Generation"
+}

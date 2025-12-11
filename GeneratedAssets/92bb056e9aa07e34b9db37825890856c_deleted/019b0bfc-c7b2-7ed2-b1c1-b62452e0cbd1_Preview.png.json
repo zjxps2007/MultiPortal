@@ -1,0 +1,11 @@
+{
+    "asset": "92bb056e9aa07e34b9db37825890856c",
+    "fileName": "019b0bfc-c7b2-7ed2-b1c1-b62452e0cbd1_Preview.png",
+    "prompt": "VR 포탈에서 포탈 렌더링을 위해 사용할거야",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 81301320,
+    "w3CTraceId": "2e3f6c5718a6c0c6a431641a801cd13a",
+    "refinementMode": "Generation"
+}
